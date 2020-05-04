@@ -1,4 +1,4 @@
-package com.example.flutter_vomplete_guide
+package com.example.flutter_complete_guide
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
