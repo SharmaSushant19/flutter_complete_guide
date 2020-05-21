@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # flutter_complete_guide
 
 A new Flutter project.
@@ -21,5 +19,3 @@ samples, guidance on mobile development, and a full API reference.
 # flutter_complete_guide
 
 self learning module
-
-> > > > > > > adcca01323bb01b209db202f84d5f29b14960b5c
